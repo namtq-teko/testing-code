@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Configurations
-readonly SSH_USERS=""
+readonly SSH_USERS="namtq tuongpx quy-dev quyetnv"
 readonly CRON_ALLOW_CONFIG_FILE="/etc/cron.allow"
 readonly SSH_CONFIG_FILE="/etc/ssh/sshd_config"
 readonly COMMON_PWD_CONFIG_FILE="/etc/pam.d/common-password"
